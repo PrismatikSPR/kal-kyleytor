@@ -1,0 +1,11 @@
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\bin\Debug\HelloWolrdAppWF.exe.config
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\bin\Debug\HelloWolrdAppWF.exe
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\bin\Debug\HelloWolrdAppWF.pdb
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\obj\Debug\HelloWolrdAppWF.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\obj\Debug\HelloWolrdAppWF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\obj\Debug\HelloWolrdAppWF.Properties.Resources.resources
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\obj\Debug\HelloWolrdAppWF.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\obj\Debug\HelloWolrdAppWF.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\obj\Debug\HelloWolrdAppWF.exe
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\obj\Debug\HelloWolrdAppWF.pdb
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\obj\Debug\HelloWolrdAppWF.Form1.resources

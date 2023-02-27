@@ -1,0 +1,13 @@
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\bin\x64\Kal`kuleytor\HelloWolrdAppWF.exe.config
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\bin\x64\Kal`kuleytor\HelloWolrdAppWF.exe
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\obj\x64\Kal`kuleytor\HelloWolrdAppWF.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\obj\x64\Kal`kuleytor\HelloWolrdAppWF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\obj\x64\Kal`kuleytor\HelloWolrdAppWF.Form1.resources
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\obj\x64\Kal`kuleytor\HelloWolrdAppWF.Properties.Resources.resources
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\obj\x64\Kal`kuleytor\HelloWolrdAppWF.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\obj\x64\Kal`kuleytor\HelloWolrdAppWF.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\obj\x64\Kal`kuleytor\HelloWolrdAppWF.exe
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\bin\x64\Kal`kuleytor\HelloWolrdAppWF.exe.manifest
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\bin\x64\Kal`kuleytor\HelloWolrdAppWF.application
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\obj\x64\Kal`kuleytor\HelloWolrdAppWF.exe.manifest
+C:\Users\Nikita\source\repos\HelloWolrdAppWF\HelloWolrdAppWF\obj\x64\Kal`kuleytor\HelloWolrdAppWF.application

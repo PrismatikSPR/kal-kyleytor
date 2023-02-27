@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="HelloWolrdAppWF.exe" version="1.0.0.0" publicKeyToken="2cfe23b342e153eb" language="neutral" processorArchitecture="amd64" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="HelloWolrdAppWF" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
+    <commandLine file="HelloWolrdAppWF.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          Если нужно изменить уровень контроля учетных записей Windows, замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если нужно использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HelloWolrdAppWF.exe" size="9656">
+      <assemblyIdentity name="HelloWolrdAppWF" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>s/agz0l0eb7r9GFZIW9BAXPvHSltnMck1Z1A0KDBIso=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="HelloWolrdAppWF.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=HOME-PC\Nikita" issuerKeyHash="90328152a6cf36faa3637d2b11ad5d8b455cf71e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>t7qTkQiM0HIfeuf4N5syumpbVi9DNvWnO+edfXABPEo=</DigestValue></Reference></SignedInfo><SignatureValue>jAH8O4iGv2CWDl9NBBtrOfp4ClxyD/382sCPKRf0koUN4i78a2DjKJpXJ2y1hIPTbWOogFfCaLS9bAzxR5DAHF+1hI7udc6kXujVobOzNrBlHrFHhOq7/3cx+PM2gGAkvo88Gao1dxR4OdasR8HvDlcr3vWrpli5fSJ+tqtY/Fo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>z4vxpkFYFdTn4Gpd1laQT9GiMNKJhm29hJWqGnqKxvNjzA2tHFw31CT5UWidGhandGdqnyxNCNOOme8K9hwBIQyicY3O5/HzgC/+BzR6keZH2bjE60emxzM2IAXofuQDIwBI6XSMRi3ATgeDZdG4oLX0BJmg9xxAlIsikZMDo40=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4a3c01707d9de73ba7f536432f565b6aba329b37f8e77a1f72d08c089193bab7" Description="" Url=""><as:assemblyIdentity name="HelloWolrdAppWF.exe" version="1.0.0.0" publicKeyToken="2cfe23b342e153eb" language="neutral" processorArchitecture="amd64" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=HOME-PC\Nikita</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>L+2NLCl9qj+FSp+tSMGJqeo+yZVCmxJa0nPZZIgK/ck=</DigestValue></Reference></SignedInfo><SignatureValue>BS4BhS6yJBZHCEWjcQdpx1xB4dpJVyZuRySTNFrU5sLeKTg7/cTwaojE3inC4qSRNs5ZxwdY5fiVn6cr7WR9Ek0dzfBOiRDl2/XWSDQ8hE6yZQ2guTBY0YF9ldDORSjTEKCqD639+af7Uu7JlIvsu1GNqmHoCD90qXHzxrjXEi8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>z4vxpkFYFdTn4Gpd1laQT9GiMNKJhm29hJWqGnqKxvNjzA2tHFw31CT5UWidGhandGdqnyxNCNOOme8K9hwBIQyicY3O5/HzgC/+BzR6keZH2bjE60emxzM2IAXofuQDIwBI6XSMRi3ATgeDZdG4oLX0BJmg9xxAlIsikZMDo40=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQFGWwLDkQw6hEr0N1ifvwaDANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwASABPAE0ARQAtAFAAQwBcAE4AaQBrAGkAdABhMB4XDTIzMDIyNzE0NDIwOFoXDTI0MDIyNzIwNDIwOFowJzElMCMGA1UEAx4cAEgATwBNAEUALQBQAEMAXABOAGkAawBpAHQAYTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAz4vxpkFYFdTn4Gpd1laQT9GiMNKJhm29hJWqGnqKxvNjzA2tHFw31CT5UWidGhandGdqnyxNCNOOme8K9hwBIQyicY3O5/HzgC/+BzR6keZH2bjE60emxzM2IAXofuQDIwBI6XSMRi3ATgeDZdG4oLX0BJmg9xxAlIsikZMDo40CAwEAATANBgkqhkiG9w0BAQsFAAOBgQBNStP+crxoXqK7HXMlEZcPG1WmR7XhDERFDiFbUsxffXiPUo/IMHnXcEqiB7wLXkCgEypIn6MmMihZuQ9jlJrul2ik98osyEZE93CXvv6UohBaFpTPat4laUV9s/BW3020E25s3+UCH0uR5IF+R276WxLPaH6qyBu3K6BUonSYdQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
